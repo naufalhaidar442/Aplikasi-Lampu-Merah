@@ -4,8 +4,8 @@
 | No |             Nama            |   NIM   |
 |----|-----------------------------|---------|
 | 1  | Naufal Haidar Putera Syarif | 2511032 |
-| 2  |      |     |
-| 3  |      |     |
+| 2  | Azril Nasywa | 2511034 |
+| 3  | Fakhri Izza Maulana | 2511005 |
 | 4  |      |     |
 
 ## Deskripsi
